@@ -14,6 +14,7 @@ class Bot
         return $this->answers;
     }
 
+    
     /**
      * @param array $answers
      */
